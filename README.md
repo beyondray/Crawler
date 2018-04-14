@@ -15,4 +15,4 @@ Usage
 --------
 * 确保安装node.js模块
 * 在crawler目录下运行node server命令启动本地服务器
-* 通过http://localhost/html5/main.html访问前端网站主界面
+* 通过http://localhost/html5/main.html 访问前端网站主界面
